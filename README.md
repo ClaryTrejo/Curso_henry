@@ -1,2 +1,2 @@
-# Curso_henry
-Este es un repositorio de prueba para el curso de programación
+
+ Este proyecto es un ejemplo de como clonar los repopsitorios
